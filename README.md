@@ -23,6 +23,7 @@ O relatório técnico apresenta o React como tecnologia para desenvolvimento de 
 
 - Pedro Henrqieu Campos
 - Felipe Nunes Ramalho
+- Jeniffer Camargo Oliveira
 - Juliana Karla Camargo da Silva
 - Gustavo Leme de Castro
 
@@ -32,4 +33,3 @@ O relatório técnico apresenta o React como tecnologia para desenvolvimento de 
 - React;
 - Git e GitHub;
 - Markdown;
-- Vercel para publicação de aplicações front-end.
