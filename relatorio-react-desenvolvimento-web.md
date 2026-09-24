@@ -12,7 +12,7 @@
 |---|---|
 | Componente curricular | Desenvolvimento Web |
 | Tema | React e desenvolvimento Front-end |
-| Aluno(a)/grupo | Pedro Henrqieu Campos<br>Felipe Nunes Ramalho<br>Juliana Karla Camargo da silva<br>Gustavo Leme de Castro |
+| Aluno(a)/grupo | Pedro Henrqieu Campos<br>Felipe Nunes Ramalho<br>Juliana Karla Camargo da silva<br>Gustavo Leme de Castro<br>Jeniffer Camargo Oliveira |
 | Turma | TADS2 |
 
 ---
